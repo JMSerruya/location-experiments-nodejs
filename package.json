@@ -1,12 +1,13 @@
 {
-	"name": "LocationServer",
+  "name": "LocationServer",
   "description": "Location Prototype Server",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-		"express": "3.x",
-		"mongoose": "3.x",
-		"moment": "2.x",
-		"dot":"1.0.1"
-	}
+    "express": "^3.5.1",
+    "mongoose": "^3.8.8",
+    "moment": "^2.5.1",
+    "dot": "^1.0.1",
+    "mongodb": "^1.4.0"
+  }
 }
